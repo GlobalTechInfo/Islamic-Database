@@ -1,6 +1,226 @@
 {
   "hadiths": [
     {
+      "hadith_number": "6768",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays the Fajr prayer with congregation is as if he stayed the entire night in worship."
+    },
+    {
+      "hadith_number": "6402",
+      "book_name": "Sahih al-Bukhari",
+      "context": "Whoever performs Hajj and does not commit any obscenity or wickedness will return as if he were born anew."
+    },
+    {
+      "hadith_number": "2163",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who gives charity will have his reward increased and the evil of calamity will be averted."
+    },
+    {
+      "hadith_number": "588",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who prays regularly and fulfills his obligations will be rewarded with Paradise."
+    },
+    {
+      "hadith_number": "1804",
+      "book_name": "Sahih Muslim",
+      "context": "The one who performs a good deed will receive the reward of ten like it."
+    },
+    {
+      "hadith_number": "1714",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Whoever seeks knowledge and strives to acquire it for the sake of Allah will be rewarded."
+    },
+    {
+      "hadith_number": "6610",
+      "book_name": "Sahih Muslim",
+      "context": "The reward for fasting is immense, as Allah says, 'Fasting is for Me, and I will reward it.'"
+    },
+    {
+      "hadith_number": "529",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The best of you are those who are most beneficial to others."
+    },
+    {
+      "hadith_number": "2975",
+      "book_name": "Sahih Muslim",
+      "context": "The most complete of the believers in faith are those who have the best character."
+    },
+    {
+      "hadith_number": "5762",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Whosoever is not grateful to people, he is not grateful to Allah."
+    },
+    {
+      "hadith_number": "1727",
+      "book_name": "Sunan Abu Dawood",
+      "context": "A person is on the religion of his companion, so let one of you look to whom he associates with."
+    },
+    {
+      "hadith_number": "5067",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who prays with devotion and sincerity will be forgiven."
+    },
+    {
+      "hadith_number": "2181",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who fasts during Ramadan with faith and seeking reward will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "2338",
+      "book_name": "Sahih Muslim",
+      "context": "Seek knowledge from the cradle to the grave."
+    },
+    {
+      "hadith_number": "2758",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who is kind to his parents, Allah will grant him a long life and increase his provision."
+    },
+    {
+      "hadith_number": "567",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who makes peace between people will be rewarded by Allah."
+    },
+    {
+      "hadith_number": "2129",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who holds fast to the Book of Allah will be guided and protected from evil."
+    },
+    {
+      "hadith_number": "3853",
+      "book_name": "Sahih Muslim",
+      "context": "The one who is patient in adversity will receive a reward without measure."
+    },
+    {
+      "hadith_number": "3134",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who assists his brother in times of need will receive help from Allah."
+    },
+    {
+      "hadith_number": "3505",
+      "book_name": "Sunan Abu Dawood",
+      "context": "He who prays two Rak'ahs in the morning will have his sins forgiven."
+    },
+    {
+      "hadith_number": "4119",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The best of you are those who are most beneficial to others in the service of Islam."
+    },
+    {
+      "hadith_number": "2290",
+      "book_name": "Sahih Muslim",
+      "context": "The one who believes in Allah and the Last Day must speak well or remain silent."
+    },
+    {
+      "hadith_number": "1061",
+      "book_name": "Sahih Muslim",
+      "context": "Whoever is not kind to his wife, he has been cruel to her."
+    },
+    {
+      "hadith_number": "2816",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The best of you are those who learn and teach the Qur’an."
+    },
+    {
+      "hadith_number": "2471",
+      "book_name": "Sunan Ibn Majah",
+      "context": "One who shows mercy to others will have mercy shown to him by Allah."
+    },
+    {
+      "hadith_number": "1753",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who performs Hajj and Umrah will be forgiven."
+    },
+    {
+      "hadith_number": "3493",
+      "book_name": "Sahih Muslim",
+      "context": "The one who performs the obligatory prayer with sincerity and devotion will be forgiven."
+    },
+    {
+      "hadith_number": "2067",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who calls others to righteousness will have a reward equal to the reward of those who follow him."
+    },
+    {
+      "hadith_number": "624",
+      "book_name": "Sahih Muslim",
+      "context": "The one who calls others to good deeds is as if he himself is performing them."
+    },
+    {
+      "hadith_number": "3778",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays for the guidance of others is like a person who is being guided."
+    },
+    {
+      "hadith_number": "4578",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The best of deeds are those that are done regularly, even if they are few."
+    },
+    {
+      "hadith_number": "1769",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who greets with peace will have his reward multiplied by Allah."
+    },
+    {
+      "hadith_number": "1243",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "A Muslim is one who avoids harming others with his tongue or hand."
+    },
+    {
+      "hadith_number": "3358",
+      "book_name": "Sunan Ibn Majah",
+      "context": "A person who prays to Allah for forgiveness will have his sins forgiven."
+    },
+    {
+      "hadith_number": "2839",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who performs prayer with sincerity and faith will have his sins forgiven."
+    },
+    {
+      "hadith_number": "1049",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who seeks knowledge will be rewarded by Allah."
+    },
+    {
+      "hadith_number": "2456",
+      "book_name": "Sahih Muslim",
+      "context": "The one who gives charity with sincerity will receive blessings from Allah."
+    },
+    {
+      "hadith_number": "5671",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who prays at night will be given a light on the Day of Judgment."
+    },
+    {
+      "hadith_number": "6124",
+      "book_name": "Sahih Muslim",
+      "context": "The one who is kind to the orphan will be in Paradise with the Prophet."
+    },
+    {
+      "hadith_number": "2327",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who is patient in times of hardship will receive a reward beyond measure."
+    },
+    {
+      "hadith_number": "2850",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who performs a good deed will have its reward multiplied."
+    },
+    {
+      "hadith_number": "2778",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays the night prayer with sincerity will be forgiven."
+    },
+    {
+      "hadith_number": "2079",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who repents sincerely will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "3615",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who is humble and does not boast will be raised in honor by Allah."
+    },
+    {
       "hadith_number": "2346",
       "book_name": "Sahih Muslim",
       "context": "The best among you are those who are the most beneficial to others."
