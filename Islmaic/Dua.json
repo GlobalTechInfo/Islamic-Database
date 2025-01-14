@@ -1,6 +1,221 @@
 {
   "duas": [
     {
+      "title": "Dua for Guidance in Decision Making",
+      "arabic": "اللهم يسر لي أمري",
+      "translation": "O Allah, make my affairs easy for me."
+    },
+    {
+      "title": "Dua for Protection from Sickness",
+      "arabic": "اللهم عافني في بدني",
+      "translation": "O Allah, grant me health in my body."
+    },
+    {
+      "title": "Dua for Strength and Patience",
+      "arabic": "اللهم صبرني على ما ابتليتني به",
+      "translation": "O Allah, grant me patience with what You have tested me with."
+    },
+    {
+      "title": "Dua for Steadfastness in Religion",
+      "arabic": "اللهم ثبتني على طاعتك",
+      "translation": "O Allah, keep me firm in Your obedience."
+    },
+    {
+      "title": "Dua for Protection from Evil Eye",
+      "arabic": "اللهم إني أعوذ بك من شر عين الحاسد",
+      "translation": "O Allah, I seek refuge in You from the evil eye of the envious."
+    },
+    {
+      "title": "Dua for Gratitude",
+      "arabic": "اللهم اجعلني من الشاكرين",
+      "translation": "O Allah, make me among the grateful ones."
+    },
+    {
+      "title": "Dua for Protection from Hellfire",
+      "arabic": "اللهم اجعلنا من أهل الجنة ووقنا عذاب النار",
+      "translation": "O Allah, make us from the people of Jannah and protect us from the punishment of the Hellfire."
+    },
+    {
+      "title": "Dua for Sustenance",
+      "arabic": "اللهم رزقني من حيث لا أحتسب",
+      "translation": "O Allah, provide me from sources I cannot imagine."
+    },
+    {
+      "title": "Dua for Protection from Trials",
+      "arabic": "اللهم احفظني من كل شر وفتنة",
+      "translation": "O Allah, protect me from every harm and trial."
+    },
+    {
+      "title": "Dua for Ease in Difficult Times",
+      "arabic": "اللهم فرج عني همي",
+      "translation": "O Allah, relieve me of my worries."
+    },
+    {
+      "title": "Dua for Protection from Arrogance",
+      "arabic": "اللهم قني شر نفسي",
+      "translation": "O Allah, protect me from the evil of my own soul."
+    },
+    {
+      "title": "Dua for Good Health",
+      "arabic": "اللهم اجعل صحتي شافية",
+      "translation": "O Allah, make my health a cure."
+    },
+    {
+      "title": "Dua for Financial Ease",
+      "arabic": "اللهم اجعل رزقي من الحلال",
+      "translation": "O Allah, make my sustenance from lawful sources."
+    },
+    {
+      "title": "Dua for Strength in Religion",
+      "arabic": "اللهم قوني في ديني",
+      "translation": "O Allah, strengthen me in my religion."
+    },
+    {
+      "title": "Dua for Wisdom",
+      "arabic": "اللهم آتنا من لدنك علمًا",
+      "translation": "O Allah, grant us knowledge from Yourself."
+    },
+    {
+      "title": "Dua for Relief from Grief",
+      "arabic": "اللهم اجعلني من الصابرين",
+      "translation": "O Allah, make me among the patient ones."
+    },
+    {
+      "title": "Dua for Forgiveness",
+      "arabic": "اللهم اغفر لي ذنبي",
+      "translation": "O Allah, forgive my sins."
+    },
+    {
+      "title": "Dua for Love and Harmony",
+      "arabic": "اللهم اجعلنا من أهل المودة والرحمة",
+      "translation": "O Allah, make us among the people of love and mercy."
+    },
+    {
+      "title": "Dua for Knowledge and Success",
+      "arabic": "اللهم ارزقني العلم النافع",
+      "translation": "O Allah, grant me beneficial knowledge."
+    },
+    {
+      "title": "Dua for Safety in Travels",
+      "arabic": "اللهم إني أسالك في سفري هذا السلامة",
+      "translation": "O Allah, I ask You for safety in this journey."
+    },
+    {
+      "title": "Dua for Patience in Adversity",
+      "arabic": "اللهم اجعلني من الذين يصبرون",
+      "translation": "O Allah, make me among those who are patient."
+    },
+    {
+      "title": "Dua for Peace of Mind",
+      "arabic": "اللهم اجعل قلبي مطمئنًا بذكرك",
+      "translation": "O Allah, make my heart peaceful with Your remembrance."
+    },
+    {
+      "title": "Dua for Protection from All Harm",
+      "arabic": "اللهم احفظني من شر كل دابة",
+      "translation": "O Allah, protect me from the evil of every creature."
+    },
+    {
+      "title": "Dua for Relief from Anxiety",
+      "arabic": "اللهم أذهب عني همي",
+      "translation": "O Allah, remove my worry from me."
+    },
+    {
+      "title": "Dua for Righteousness",
+      "arabic": "اللهم اجعلني من عبادك الصالحين",
+      "translation": "O Allah, make me from Your righteous servants."
+    },
+    {
+      "title": "Dua for Protection from Anger",
+      "arabic": "اللهم اجعلني من الذين لا يغضبون",
+      "translation": "O Allah, make me among those who do not get angry."
+    },
+    {
+      "title": "Dua for Mercy",
+      "arabic": "اللهم ارحمني بقدرتك",
+      "translation": "O Allah, have mercy on me with Your power."
+    },
+    {
+      "title": "Dua for Peace in Family",
+      "arabic": "اللهم اجعل بيتي بيتًا مباركًا",
+      "translation": "O Allah, make my house a blessed house."
+    },
+    {
+      "title": "Dua for the Deceased",
+      "arabic": "اللهم اغفر لأمواتنا",
+      "translation": "O Allah, forgive our deceased."
+    },
+    {
+      "title": "Dua for Protection from Evil Actions",
+      "arabic": "اللهم إني أعوذ بك من شر أعمالي",
+      "translation": "O Allah, I seek refuge in You from the evil of my actions."
+    },
+    {
+      "title": "Dua for Overcoming Difficulties",
+      "arabic": "اللهم يسر لي أمري",
+      "translation": "O Allah, make my affairs easy."
+    },
+    {
+      "title": "Dua for Family",
+      "arabic": "اللهم اجعلنا من أهل البيت الطاهرين",
+      "translation": "O Allah, make us among the pure family."
+    },
+    {
+      "title": "Dua for Hope",
+      "arabic": "اللهم اجعلني من المتفائلين",
+      "translation": "O Allah, make me among those who are hopeful."
+    },
+    {
+      "title": "Dua for the Oppressed",
+      "arabic": "اللهم انصر المظلومين",
+      "translation": "O Allah, give victory to the oppressed."
+    },
+    {
+      "title": "Dua for Healing",
+      "arabic": "اللهم اشفني شفاءً لا يغادر سقماً",
+      "translation": "O Allah, heal me with a healing that leaves no sickness."
+    },
+    {
+      "title": "Dua for Happiness",
+      "arabic": "اللهم ارزقني السعادة",
+      "translation": "O Allah, grant me happiness."
+    },
+    {
+      "title": "Dua for Financial Success",
+      "arabic": "اللهم افتح لي أبواب رزقك",
+      "translation": "O Allah, open the doors of Your sustenance for me."
+    },
+    {
+      "title": "Dua for Contentment",
+      "arabic": "اللهم اجعلني قنوعًا",
+      "translation": "O Allah, make me content."
+    },
+    {
+      "title": "Dua for Protection from Enemies",
+      "arabic": "اللهم احفظني من شر الأعداء",
+      "translation": "O Allah, protect me from the evil of enemies."
+    },
+    {
+      "title": "Dua for Comfort in Times of Grief",
+      "arabic": "اللهم اجعلني من الذين يسترجعون في المصيبة",
+      "translation": "O Allah, make me among those who say 'Indeed we belong to Allah and to Him is our return' in times of calamity."
+    },
+    {
+      "title": "Dua for Light in the Heart",
+      "arabic": "اللهم اجعل في قلبي نورًا",
+      "translation": "O Allah, place light in my heart."
+    },
+    {
+      "title": "Dua for Wisdom in Judgment",
+      "arabic": "اللهم ألهمني الحكمة في قراراتي",
+      "translation": "O Allah, inspire me with wisdom in my decisions."
+    },
+    {
+      "title": "Dua for Relief from Distress",
+      "arabic": "اللهم فرج عني همي",
+      "translation": "O Allah, relieve me from my distress."
+    },
+    {
       "title": "Dua for Guidance",
       "arabic": "اللهم اهدني فيمن هديت",
       "translation": "O Allah, guide me among those whom You have guided."
