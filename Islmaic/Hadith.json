@@ -1,6 +1,216 @@
 {
   "hadiths": [
     {
+      "hadith_number": "3459",
+      "book_name": "Sahih Muslim",
+      "context": "Whosoever removes a difficulty from a believer, Allah will remove one of his difficulties on the Day of Judgment."
+    },
+    {
+      "hadith_number": "5295",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who offers two Rak'ahs after wudu will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "2468",
+      "book_name": "Sahih Muslim",
+      "context": "He who fasts during the month of Ramadan with faith and hoping for reward will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "3228",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who prays at night in Ramadan with faith and hope for reward will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "6023",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who guides others to do good will receive a reward equal to those who follow him."
+    },
+    {
+      "hadith_number": "5037",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who makes du'a for his brother in his absence, the angels say, 'Ameen, and for you the same.'"
+    },
+    {
+      "hadith_number": "3147",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays the two rak'ahs of Fajr will be protected by Allah from evil."
+    },
+    {
+      "hadith_number": "7112",
+      "book_name": "Sahih Muslim",
+      "context": "The one who shows mercy to others, Allah will show mercy to him."
+    },
+    {
+      "hadith_number": "2377",
+      "book_name": "Sunan Abu Dawood",
+      "context": "Whoever builds a mosque for the sake of Allah, Allah will build for him a house in Paradise."
+    },
+    {
+      "hadith_number": "2110",
+      "book_name": "Sahih Muslim",
+      "context": "The best of you are those who are most beneficial to others."
+    },
+    {
+      "hadith_number": "3156",
+      "book_name": "Sahih al-Bukhari",
+      "context": "A believer is like a bee, wherever it goes, it brings benefit."
+    },
+    {
+      "hadith_number": "2029",
+      "book_name": "Sahih Muslim",
+      "context": "The best of the people are those who are most beneficial to others."
+    },
+    {
+      "hadith_number": "634",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who prays the five daily prayers will be granted entry to Paradise."
+    },
+    {
+      "hadith_number": "1167",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who prays sincerely will find his heart at peace."
+    },
+    {
+      "hadith_number": "3806",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays at the mosque regularly will be rewarded with a house in Paradise."
+    },
+    {
+      "hadith_number": "2057",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who is merciful to others will be shown mercy by Allah."
+    },
+    {
+      "hadith_number": "1879",
+      "book_name": "Sahih Muslim",
+      "context": "The one who fasts during Ramadan with faith will have his past sins forgiven."
+    },
+    {
+      "hadith_number": "5982",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who is patient with Allah's decree will be rewarded beyond measure."
+    },
+    {
+      "hadith_number": "4180",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who is kind to others will be treated with kindness by Allah."
+    },
+    {
+      "hadith_number": "1762",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who seeks knowledge will be rewarded with light and guidance."
+    },
+    {
+      "hadith_number": "3130",
+      "book_name": "Sahih Muslim",
+      "context": "The one who speaks to others with good manners and kindness will earn the love of Allah."
+    },
+    {
+      "hadith_number": "5354",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who is generous will be rewarded with increased provision."
+    },
+    {
+      "hadith_number": "4387",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who performs acts of charity will have his reward multiplied by Allah."
+    },
+    {
+      "hadith_number": "2505",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who is kind to his parents will be rewarded with long life and abundance."
+    },
+    {
+      "hadith_number": "2925",
+      "book_name": "Sahih Muslim",
+      "context": "The one who offers a prayer with sincerity will receive the reward of an accepted prayer."
+    },
+    {
+      "hadith_number": "2452",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who avoids backbiting will have his sins forgiven by Allah."
+    },
+    {
+      "hadith_number": "3158",
+      "book_name": "Sahih Muslim",
+      "context": "The one who believes in Allah and the Last Day must speak good or remain silent."
+    },
+    {
+      "hadith_number": "4512",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who fasts during Ramadan will have his reward increased beyond measure."
+    },
+    {
+      "hadith_number": "1452",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who makes du'a for the forgiveness of others will be forgiven by Allah."
+    },
+    {
+      "hadith_number": "3942",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who loves for his brother what he loves for himself will be rewarded by Allah."
+    },
+    {
+      "hadith_number": "2422",
+      "book_name": "Sahih Muslim",
+      "context": "The one who is steadfast in his faith will be rewarded with eternal Paradise."
+    },
+    {
+      "hadith_number": "3198",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who calls others to goodness will receive the reward of those who follow him."
+    },
+    {
+      "hadith_number": "4749",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who offers two Rak'ahs after wudu will have his sins forgiven."
+    },
+    {
+      "hadith_number": "4111",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who aids the oppressed will be helped by Allah on the Day of Judgment."
+    },
+    {
+      "hadith_number": "5429",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who does good to others will have goodness returned to him by Allah."
+    },
+    {
+      "hadith_number": "3801",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who gives to charity will find his provision increased by Allah."
+    },
+    {
+      "hadith_number": "6278",
+      "book_name": "Sahih Muslim",
+      "context": "The one who performs the night prayer will be granted a light on the Day of Judgment."
+    },
+    {
+      "hadith_number": "4234",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who fasts will be rewarded in a manner that is beyond his expectations."
+    },
+    {
+      "hadith_number": "1791",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who prays to Allah for the welfare of others will receive the same for himself."
+    },
+    {
+      "hadith_number": "2013",
+      "book_name": "Sahih Muslim",
+      "context": "The one who helps the poor will find his own needs fulfilled by Allah."
+    },
+    {
+      "hadith_number": "6078",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "The one who is grateful for the blessings of Allah will receive more blessings."
+    },
+    {
+      "hadith_number": "4310",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The one who performs an act of charity will receive the reward as if he performed it many times."
+    },
+    {
       "hadith_number": "6768",
       "book_name": "Sahih Muslim",
       "context": "The one who prays the Fajr prayer with congregation is as if he stayed the entire night in worship."
