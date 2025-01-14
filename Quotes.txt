@@ -1,49 +1,142 @@
-
-      "I'm not lazy, I'm just on my energy saving mode.",
-      "Life is short, smile while you still have teeth.",
-      "I may be a bad influence, but darn I am fun!",
-      "I'm on a whiskey diet. I've lost three days already.",
-      "Why don't some couples go to the gym? Because some relationships don't work out.",
-      "I told my wife she should embrace her mistakes... She gave me a hug.",
-      "I'm great at multitasking. I can waste time, be unproductive, and procrastinate all at once.",
-      "You know you're getting old when you stoop to tie your shoelaces and wonder what else you could do while you're down there.",
-      "I'm so good at sleeping, I can do it with my eyes closed.",
-      "If you think nobody cares if you’re alive, try missing a couple of payments.",
-      "I used to think I was indecisive, but now I'm not so sure.",
-      "If you can't convince them, confuse them.",
-      "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-      "I'm not clumsy, I'm just on a mission to test gravity.",
-      "I told my wife she should do more push-ups. She said, 'I could do a hundred!' So I counted to ten and stopped.",
-      "Life is like a box of chocolates; it doesn't last long if you're hungry.",
-      "I'm not saying I'm Wonder Woman, I'm just saying no one has ever seen me and Wonder Woman in the same room together.",
-      "Why do they call it beauty sleep when you wake up looking like a troll?",
-      "I don't always lose my phone, but when I do, it's always on silent.",
-      "My bed is a magical place where I suddenly remember everything I was supposed to do.",
-      "I love the sound you make when you shut up.",
-      "I'm not arguing, I'm just explaining why I'm right.",
-      "I'm not a complete idiot, some parts are missing.",
-      "When life gives you lemons, squirt someone in the eye.",
-      "I don't need anger management. You just need to stop making me angry.",
-      "I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.",
-      "I'm not saying I'm Superman. I'm just saying no one has ever seen me and Superman in the same room together.",
-      "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
-      "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.",
-      "The early bird can have the worm because worms are gross and mornings are stupid.",
-      "If life gives you lemons, make lemonade. Then find someone whose life has given them vodka and have a party!",
-      "The road to success is always under construction.",
-      "I am so clever that sometimes I don't understand a single word of what I am saying.",
-      "Some people just need a high-five. In the face. With a chair.",
-      "I'm not saying I'm perfect, but I'm pretty close.",
-      "A day without sunshine is like, you know, night.",
-      "The best way to predict the future is to create it.",
-      "If you can't be a good example, then you'll just have to be a horrible warning.",
-      "I don't know why I keep hitting the escape button. I'm just trying to get out of here.",
-      "I'm not lazy. I'm on energy-saving mode.",
-      "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
-      "I don't have a bad handwriting, I have my own font.",
-      "I'm not clumsy. It's just the floor hates me, the table and chairs are bullies, and the walls get in my way.",
-      "I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.",
-      "I'm not saying I'm Wonder Woman. I'm just saying no one has ever seen me and Wonder Woman in the same room together.",
-      "I'm not saying I'm Superman. I'm just saying no one has ever seen me and Superman in the same room together.",
-      "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
-      "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.
+I'm not lazy, I'm just on my energy saving mode.
+Life is short, smile while you still have teeth.
+I may be a bad influence, but darn I am fun!
+I'm on a whiskey diet. I've lost three days already.
+Why don't some couples go to the gym? Because some relationships don't work out.
+I told my wife she should embrace her mistakes... She gave me a hug.
+I'm great at multitasking. I can waste time, be unproductive, and procrastinate all at once.
+You know you're getting old when you stoop to tie your shoelaces and wonder what else you could do while you're down there.
+I'm so good at sleeping, I can do it with my eyes closed.
+If you think nobody cares if you’re alive, try missing a couple of payments.
+I used to think I was indecisive, but now I'm not so sure.
+If you can't convince them, confuse them.
+I told my wife she was drawing her eyebrows too high. She looked surprised.
+I'm not clumsy, I'm just on a mission to test gravity.
+I told my wife she should do more push-ups. She said, 'I could do a hundred!' So I counted to ten and stopped.
+Life is like a box of chocolates; it doesn't last long if you're hungry.
+I'm not saying I'm Wonder Woman, I'm just saying no one has ever seen me and Wonder Woman in the same room together.
+Why do they call it beauty sleep when you wake up looking like a troll?
+I don't always lose my phone, but when I do, it's always on silent.
+My bed is a magical place where I suddenly remember everything I was supposed to do.
+I love the sound you make when you shut up.
+I'm not arguing, I'm just explaining why I'm right.
+I'm not a complete idiot, some parts are missing.
+When life gives you lemons, squirt someone in the eye.
+I don't need anger management. You just need to stop making me angry.
+I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.
+I'm not saying I'm Superman. I'm just saying no one has ever seen me and Superman in the same room together.
+I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.
+I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.
+The early bird can have the worm because worms are gross and mornings are stupid.
+If life gives you lemons, make lemonade. Then find someone whose life has given them vodka and have a party!
+The road to success is always under construction.
+I am so clever that sometimes I don't understand a single word of what I am saying.
+Some people just need a high-five. In the face. With a chair.
+I'm not saying I'm perfect, but I'm pretty close.
+A day without sunshine is like, you know, night.
+The best way to predict the future is to create it.
+If you can't be a good example, then you'll just have to be a horrible warning.
+I don't know why I keep hitting the escape button. I'm just trying to get out of here.
+I'm not lazy. I'm on energy-saving mode.
+I don't need a hairstylist, my pillow gives me a new hairstyle every morning.
+I don't have a bad handwriting, I have my own font.
+I'm not clumsy. It's just the floor hates me, the table and chairs are bullies, and the walls get in my way.
+The best way to find yourself is to lose yourself in the things you love.
+Success is not defined by the destination, but by the journey it takes to get there.
+Sometimes the best moments in life happen when you stop chasing them.
+The world is full of possibilities; all you have to do is open your mind.
+Dreams don’t have expiration dates; only the courage to pursue them does.
+The only time you fail is when you stop trying.
+Life is a puzzle, and sometimes the pieces don’t make sense until you step back and look at the bigger picture.
+Happiness isn’t something you find; it’s something you create.
+The more you give, the more you receive, not in things, but in experiences.
+Time spent worrying is time spent away from living.
+If you never ask, the answer will always be no.
+The beauty of life lies not in what we achieve, but in what we learn along the way.
+Courage is not the absence of fear, but the willingness to move forward in spite of it.
+It’s not the weight you carry, but the way you carry it.
+Success isn’t about what you have; it’s about what you’re willing to give.
+Life is about turning obstacles into opportunities and challenges into triumphs.
+Growth happens when you leave your comfort zone.
+You are the architect of your own happiness.
+The most important part of life is how you make others feel.
+Patience is the silent strength that allows dreams to unfold.
+Your mind is a garden; your thoughts are the seeds.
+Don’t be afraid to fail; be afraid of not trying.
+The harder you work for something, the more rewarding it becomes.
+A small step forward is still a step in the right direction.
+Every ending is simply the beginning of something new.
+Never underestimate the power of a kind word or a simple gesture.
+What you give to the world comes back to you in ways you can’t always predict.
+Life is like a book; some chapters are sad, some happy, and others unexpected.
+Don’t let fear dictate your actions; let passion lead you forward.
+Sometimes, the most significant moments in life are the quiet ones.
+You don’t have to be perfect to be extraordinary.
+True strength is found in vulnerability, not in the absence of weakness.
+The journey to self-love starts with self-acceptance.
+What you focus on expands; choose wisely.
+The best things in life are often invisible; you can’t touch them, but you can feel them.
+Life is not about what you can take, but what you can give.
+The only limits that exist are the ones you place on yourself.
+Change may be uncomfortable, but growth is always worth it.
+There’s always a reason to smile, even on the hardest days.
+A person’s true wealth is measured not by their possessions but by their kindness.
+The journey is just as important as the destination.
+Your mind is the most powerful tool you possess; use it wisely.
+Life is about finding balance, not perfection.
+Sometimes the best way to move forward is to let go of the past.
+Don’t chase success, chase meaning, and success will follow.
+True happiness is found in moments of peace, not in things.
+Life doesn’t happen to you, it happens for you.
+The world is full of magic, if you’re willing to believe in it.
+Believe in the power of your dreams, even when others don’t.
+Success is a series of small wins stacked on top of each other.
+Be kind to yourself; you're doing the best you can.
+You can’t change the past, but you can shape your future.
+The only limit to your potential is the belief that you have one.
+It’s okay to not have everything figured out; just keep moving forward.
+The most important conversations you’ll have are the ones you have with yourself.
+Doubt kills more dreams than failure ever will.
+You are not defined by your mistakes, but by how you rise from them.
+The best way to predict the future is to create it.
+Everything you need to succeed is already within you.
+Life doesn’t owe you anything, but you owe it to yourself to make the most of it.
+Sometimes the greatest act of courage is simply showing up.
+Success is found in the moments where you decide not to give up.
+The key to happiness is not in getting more, but in being content with what you have.
+Your attitude is the compass that will guide you through life.
+The road to success is never a straight line; it’s full of twists and turns.
+Never stop learning; every experience is an opportunity to grow.
+Fear doesn’t have to hold you back; let it push you forward instead.
+Your worth is not determined by the opinions of others, but by how you view yourself.
+The world will change when you change the way you see it.
+Small acts of kindness can have a ripple effect far beyond what you can imagine.
+Life is too short to wait for the perfect moment; make the moment perfect.
+Don’t compare your chapter one to someone else’s chapter twenty.
+Your dreams are valid, even if they seem impossible right now.
+There’s beauty in imperfection; embrace what makes you unique.
+The secret to a fulfilled life is gratitude for what you already have.
+What you focus on grows; choose positivity.
+Every challenge is an opportunity to discover a new strength within yourself.
+The only way to fail is to stop trying.
+Don’t let your past dictate your future; it’s just a chapter, not the whole story.
+Success is not a destination; it’s a way of living.
+True freedom comes when you release the fear of judgment.
+Believe in the power of second chances.
+You are never too old to set new goals or dream new dreams.
+You don’t need to be perfect to be happy; you just need to be you.
+Life’s most precious moments often come when we least expect them.
+There’s no such thing as a mistake, only a lesson to be learned.
+When you stop trying to control everything, you open the door to possibilities.
+Trust the process; the best things take time.
+The true measure of wealth is the number of lives you positively impact.
+When you stop looking for validation from others, you free yourself to live authentically.
+You have the power to rewrite your story at any moment.
+The only thing standing between you and your dreams is the courage to start.
+The best way to succeed is to help others succeed.
+You can’t pour from an empty cup; take care of yourself first.
+What you do today shapes who you’ll become tomorrow.
+Each day is a new beginning; make the most of it.
+Success is a journey that requires patience, persistence, and passion.
+Don’t wait for the storm to pass; learn to dance in the rain.
+Life is a collection of moments; make each one count.
