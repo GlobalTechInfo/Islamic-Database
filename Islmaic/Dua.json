@@ -1,0 +1,29 @@
+{
+  "duas": [
+    {
+      "title": "Dua for Guidance",
+      "arabic": "اللهم اهدني فيمن هديت",
+      "translation": "O Allah, guide me among those whom You have guided."
+    },
+    {
+      "title": "Dua for Protection from Evil",
+      "arabic": "اللهم إني أعوذ بك من الشيطان الرجيم",
+      "translation": "O Allah, I seek refuge in You from the accursed devil."
+    },
+    {
+      "title": "Dua for Forgiveness",
+      "arabic": "اللهم اغفر لي وارحمني",
+      "translation": "O Allah, forgive me and have mercy upon me."
+    },
+    {
+      "title": "Dua for Success",
+      "arabic": "اللهم إني أسالك من فضلك ورحمتك",
+      "translation": "O Allah, I ask You for Your bounty and mercy."
+    },
+    {
+      "title": "Dua for Protection from Harm",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "translation": "In the name of Allah, with Whose name nothing on earth or in the heavens can harm, and He is the All-Hearing, the All-Knowing."
+    }
+  ]
+}
