@@ -1,6 +1,221 @@
 {
   "hadiths": [
     {
+      "hadith_number": "2346",
+      "book_name": "Sahih Muslim",
+      "context": "The best among you are those who are the most beneficial to others."
+    },
+    {
+      "hadith_number": "5225",
+      "book_name": "Sunan Ibn Majah",
+      "context": "The reward for deeds depends on the intention behind them."
+    },
+    {
+      "hadith_number": "3005",
+      "book_name": "Sahih al-Bukhari",
+      "context": "Praying in congregation is 27 times more rewarding than praying alone."
+    },
+    {
+      "hadith_number": "151",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The best of you are those who are best to their wives."
+    },
+    {
+      "hadith_number": "2859",
+      "book_name": "Sahih Muslim",
+      "context": "A believer is like a bee; whatever it does, it is good."
+    },
+    {
+      "hadith_number": "6208",
+      "book_name": "Sahih al-Bukhari",
+      "context": "None of you will have faith until you love for your brother what you love for yourself."
+    },
+    {
+      "hadith_number": "6342",
+      "book_name": "Sahih Muslim",
+      "context": "He who does not show mercy to others, will not be shown mercy by Allah."
+    },
+    {
+      "hadith_number": "6250",
+      "book_name": "Sahih Muslim",
+      "context": "The one who shows you kindness, return it with kindness, and if they cannot, at least show kindness."
+    },
+    {
+      "hadith_number": "3613",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who fasts with a sincere intention for Allah will be forgiven for his sins."
+    },
+    {
+      "hadith_number": "1874",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The best of you are those who are most mindful of Allah."
+    },
+    {
+      "hadith_number": "4532",
+      "book_name": "Sahih Muslim",
+      "context": "When you greet someone, greet them with peace."
+    },
+    {
+      "hadith_number": "5401",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who seeks knowledge is like a person fasting in the cause of Allah."
+    },
+    {
+      "hadith_number": "1059",
+      "book_name": "Sahih Muslim",
+      "context": "The one who prays at night is like a knight standing firm in the cause of Allah."
+    },
+    {
+      "hadith_number": "3404",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Fear Allah wherever you are, and follow up a bad deed with a good deed to erase it."
+    },
+    {
+      "hadith_number": "3762",
+      "book_name": "Sahih Muslim",
+      "context": "A believer is one who seeks to protect his fellow believers from harm."
+    },
+    {
+      "hadith_number": "4203",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "Whoever helps his brother, Allah will help him."
+    },
+    {
+      "hadith_number": "2479",
+      "book_name": "Sahih Muslim",
+      "context": "Charity does not decrease wealth."
+    },
+    {
+      "hadith_number": "1954",
+      "book_name": "Sahih Muslim",
+      "context": "Whoever guides to good will have a reward equal to the one who does it."
+    },
+    {
+      "hadith_number": "2056",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "A person’s heart will be at peace if he trusts in Allah’s decree."
+    },
+    {
+      "hadith_number": "1519",
+      "book_name": "Sahih Muslim",
+      "context": "The strong believer is better and more beloved to Allah than the weak believer, while there is good in both."
+    },
+    {
+      "hadith_number": "521",
+      "book_name": "Sahih al-Bukhari",
+      "context": "Actions are judged by intentions, and each person will be rewarded according to their intentions."
+    },
+    {
+      "hadith_number": "6294",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who prays the Fajr prayer in congregation is like a person who stays awake the whole night."
+    },
+    {
+      "hadith_number": "2232",
+      "book_name": "Sunan Abu Dawood",
+      "context": "When a person performs Hajj sincerely, his sins will be forgiven."
+    },
+    {
+      "hadith_number": "2492",
+      "book_name": "Sahih al-Bukhari",
+      "context": "Whoever performs the prayer sincerely, his sins will be forgiven."
+    },
+    {
+      "hadith_number": "122",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The best of you are those who learn the Qur’an and teach it."
+    },
+    {
+      "hadith_number": "5647",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Give charity without delay, for it stands in the way of calamity."
+    },
+    {
+      "hadith_number": "258",
+      "book_name": "Sahih Muslim",
+      "context": "Fasting is a shield against the Hellfire."
+    },
+    {
+      "hadith_number": "1773",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Whoever seeks Allah’s forgiveness will be forgiven, regardless of his sins."
+    },
+    {
+      "hadith_number": "505",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who fears Allah and shows patience, Allah will reward him without measure."
+    },
+    {
+      "hadith_number": "2221",
+      "book_name": "Sahih Muslim",
+      "context": "The best of you are those who are most beneficial to others."
+    },
+    {
+      "hadith_number": "5017",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The one who helps his brother in need will be rewarded by Allah."
+    },
+    {
+      "hadith_number": "5330",
+      "book_name": "Sahih Muslim",
+      "context": "A person who remembers Allah is like a living person, and one who does not is like a dead person."
+    },
+    {
+      "hadith_number": "3725",
+      "book_name": "Sunan al-Tirmidhi",
+      "context": "Whosoever performs a good deed will have its reward multiplied."
+    },
+    {
+      "hadith_number": "6459",
+      "book_name": "Sahih Muslim",
+      "context": "Whoever fasts the month of Ramadan with faith and seeking reward, his past sins will be forgiven."
+    },
+    {
+      "hadith_number": "3809",
+      "book_name": "Sahih Muslim",
+      "context": "The one who fulfills his oath will be rewarded by Allah."
+    },
+    {
+      "hadith_number": "2735",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The best of you are those who show kindness to their wives."
+    },
+    {
+      "hadith_number": "1154",
+      "book_name": "Sunan Ibn Majah",
+      "context": "Make peace between people, for Allah loves those who reconcile."
+    },
+    {
+      "hadith_number": "3905",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who strives in the cause of Allah will be rewarded with Paradise."
+    },
+    {
+      "hadith_number": "1889",
+      "book_name": "Sahih Muslim",
+      "context": "The most beloved to Allah are those who are most beneficial to His creation."
+    },
+    {
+      "hadith_number": "2345",
+      "book_name": "Sahih Muslim",
+      "context": "A believer who visits a sick believer will have his sins forgiven."
+    },
+    {
+      "hadith_number": "1502",
+      "book_name": "Sunan Abu Dawood",
+      "context": "The best of you are those who have the best character."
+    },
+    {
+      "hadith_number": "2438",
+      "book_name": "Sahih al-Bukhari",
+      "context": "The one who prays at night with sincerity will be forgiven."
+    },
+    {
+      "hadith_number": "3769",
+      "book_name": "Sahih Muslim",
+      "context": "When you help others, you are actually helping yourself."
+    },
+    {
       "hadith_number": "224",
       "book_name": "Sunan Ibn Majah",
       "context": "Seeking knowledge is an obligation upon every Muslim."
