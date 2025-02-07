@@ -1,0 +1,994 @@
+[
+  {
+    "ops1": "Have the ability to always know when someone is lying",
+    "ops2": "Be able to always get away with lying"
+  },
+  {
+    "ops1": "Be stuck in a room with 10,000 spiders",
+    "ops2": "Be stuck in a room with 100 snakes"
+  },
+  {
+    "ops1": "Never be able to speak again",
+    "ops2": "Never be able to hear again"
+  },
+  {
+    "ops1": "Live in a world without music",
+    "ops2": "Live in a world without books"
+  },
+  {
+    "ops1": "Be able to talk to animals",
+    "ops2": "Be able to speak every language in the world"
+  },
+  {
+    "ops1": "Have unlimited money but no friends",
+    "ops2": "Have no money but lots of friends"
+  },
+  {
+    "ops1": "Live in a big mansion but be lonely",
+    "ops2": "Live in a small house but be surrounded by family and friends"
+  },
+  {
+    "ops1": "Always be 10 minutes late",
+    "ops2": "Always be 20 minutes early"
+  },
+  {
+    "ops1": "Never be able to eat your favorite food again",
+    "ops2": "Never be able to eat anything sweet again"
+  },
+  {
+    "ops1": "Live forever and watch everyone you love die",
+    "ops2": "Die young and have a life full of adventures"
+  },
+  {
+    "ops1": "Have the power to fly",
+    "ops2": "Have the power to be invisible"
+  },
+  {
+    "ops1": "Never be able to use the internet again",
+    "ops2": "Never be able to watch TV again"
+  },
+  {
+    "ops1": "Always be the smartest person in the room",
+    "ops2": "Always be the funniest person in the room"
+  },
+  {
+    "ops1": "Be famous but have a terrible personal life",
+    "ops2": "Be unknown but have a perfect personal life"
+  },
+  {
+    "ops1": "Have the ability to change the past",
+    "ops2": "Have the ability to see the future"
+  },
+  {
+    "ops1": "Live in a house with no doors",
+    "ops2": "Live in a house with no windows"
+  },
+  {
+    "ops1": "Be able to speak any language instantly",
+    "ops2": "Be able to understand any language instantly"
+  },
+  {
+    "ops1": "Only be able to eat pizza for the rest of your life",
+    "ops2": "Only be able to eat burgers for the rest of your life"
+  },
+  {
+    "ops1": "Have the power to heal anyone you touch",
+    "ops2": "Have the power to read minds"
+  },
+  {
+    "ops1": "Be able to live without sleep",
+    "ops2": "Be able to live without food"
+  },
+  {
+    "ops1": "Be able to control the weather",
+    "ops2": "Be able to talk to animals"
+  },
+  {
+    "ops1": "Have the ability to teleport anywhere",
+    "ops2": "Have the ability to time travel"
+  },
+  {
+    "ops1": "Have a perfect body but no friends",
+    "ops2": "Have a body you're comfortable with but great friends"
+  },
+  {
+    "ops1": "Never experience heartbreak again",
+    "ops2": "Never experience fear again"
+  },
+  {
+    "ops1": "Always be in control but alone",
+    "ops2": "Always be with others but never in control"
+  },
+  {
+    "ops1": "Be able to live anywhere you want but never have a job",
+    "ops2": "Be able to work anywhere you want but never have a permanent home"
+  },
+  {
+    "ops1": "Have a million dollars but no freedom",
+    "ops2": "Have no money but complete freedom"
+  },
+  {
+    "ops1": "Never feel pain but never experience joy",
+    "ops2": "Feel pain but also experience joy"
+  },
+  {
+    "ops1": "Be rich and unhappy",
+    "ops2": "Be poor but happy"
+  },
+  {
+    "ops1": "Always get what you want but never appreciate it",
+    "ops2": "Never get what you want but always appreciate what you have"
+  },
+  {
+    "ops1": "Be extremely talented but never recognized",
+    "ops2": "Be average but always appreciated"
+  },
+  {
+    "ops1": "Live a life full of adventure but never have stability",
+    "ops2": "Live a stable life but never experience adventure"
+  },
+  {
+    "ops1": "Never make a mistake again but live in constant fear",
+    "ops2": "Make mistakes but learn and grow from them"
+  },
+  {
+    "ops1": "Have the ability to erase your past memories",
+    "ops2": "Have the ability to see your future"
+  },
+  {
+    "ops1": "Always have good health but never enjoy food",
+    "ops2": "Always enjoy food but have poor health"
+  },
+  {
+    "ops1": "Be able to talk to anyone but have no privacy",
+    "ops2": "Be able to be alone but never talk to anyone"
+  },
+  {
+    "ops1": "Be able to change someone's life for the better but never see them again",
+    "ops2": "Never change someone's life but always be around to see them"
+  },
+  {
+    "ops1": "Have the power to influence people's decisions",
+    "ops2": "Have the power to control your own decisions"
+  },
+  {
+    "ops1": "Always be financially comfortable but never truly happy",
+    "ops2": "Never be financially comfortable but always truly happy"
+  },
+  {
+    "ops1": "Have the ability to make your dreams come true but at the cost of losing a loved one",
+    "ops2": "Live a simple life without any dreams coming true but with all your loved ones"
+  },
+  {
+    "ops1": "Be able to read every book in the world",
+    "ops2": "Be able to write the best book ever"
+  },
+  {
+    "ops1": "Have unlimited power but no control",
+    "ops2": "Have limited power but full control"
+  },
+  {
+    "ops1": "Be able to live forever but see all your loved ones age and die",
+    "ops2": "Live a full life but die young"
+  },
+  {
+    "ops1": "Always be right but never have your opinion heard",
+    "ops2": "Always be wrong but always have your opinion heard"
+  },
+  {
+    "ops1": "Never feel tired again but never feel relaxed",
+    "ops2": "Always feel relaxed but never have the energy to do anything"
+  },
+  {
+    "ops1": "Always be happy but never successful",
+    "ops2": "Always be successful but never happy"
+  },
+  {
+    "ops1": "Have the ability to talk to aliens but never talk to humans",
+    "ops2": "Talk to humans but never understand aliens"
+  },
+  {
+    "ops1": "Have the power to create life",
+    "ops2": "Have the power to destroy life"
+  },
+  {
+    "ops1": "Be famous but always be alone",
+    "ops2": "Be unknown but always surrounded by people"
+  },
+  {
+    "ops1": "Never age physically but always be old mentally",
+    "ops2": "Age physically but always stay young mentally"
+  },
+  {
+    "ops1": "Be able to tell the truth but no one believes you",
+    "ops2": "Be able to lie but everyone believes you"
+  },
+  {
+    "ops1": "Live in a world without any rules",
+    "ops2": "Live in a world with too many rules"
+  },
+  {
+    "ops1": "Be the smartest person in the world but have no friends",
+    "ops2": "Be the least intelligent but surrounded by friends"
+  },
+  {
+    "ops1": "Always live in a state of complete comfort",
+    "ops2": "Always live in a state of discomfort but with constant growth"
+  },
+  {
+    "ops1": "Be able to influence any outcome but never enjoy the process",
+    "ops2": "Enjoy the process but never have control over the outcome"
+  },
+  {
+    "ops1": "Have the ability to bring happiness to others but never experience it yourself",
+    "ops2": "Always experience happiness but never be able to bring it to others"
+  },
+  {
+    "ops1": "Be able to control your emotions but never experience love",
+    "ops2": "Always experience love but never be able to control your emotions"
+  },
+  {
+    "ops1": "Always be successful but never find fulfillment",
+    "ops2": "Always find fulfillment but never succeed"
+  },
+  {
+    "ops1": "Live in a perfect world but never be able to make a decision",
+    "ops2": "Live in a chaotic world but always be able to make decisions"
+  },
+  {
+    "ops1": "Have the power to control people's minds",
+    "ops2": "Have the power to control your own mind"
+  },
+  {
+    "ops1": "Have the ability to communicate with spirits",
+    "ops2": "Never be able to communicate with anyone"
+  },
+  {
+    "ops1": "Live without ever making a mistake",
+    "ops2": "Live with mistakes but learn from them"
+  },
+  {
+    "ops1": "Be able to always understand yourself but never understand others",
+    "ops2": "Always understand others but never understand yourself"
+  },
+  {
+    "ops1": "Have the ability to breathe underwater",
+    "ops2": "Have the ability to fly"
+  },
+  {
+    "ops1": "Be able to teleport anywhere instantly",
+    "ops2": "Be able to time travel to any point in history"
+  },
+  {
+    "ops1": "Live in a world where everything you say is automatically true",
+    "ops2": "Live in a world where everyone always tells you the truth"
+  },
+  {
+    "ops1": "Never be able to feel pain",
+    "ops2": "Never be able to feel joy"
+  },
+  {
+    "ops1": "Have a photographic memory",
+    "ops2": "Be able to forget anything at will"
+  },
+  {
+    "ops1": "Be able to control fire",
+    "ops2": "Be able to control water"
+  },
+  {
+    "ops1": "Have the power to heal others but never be able to heal yourself",
+    "ops2": "Be able to heal yourself but never be able to heal others"
+  },
+  {
+    "ops1": "Be constantly surrounded by people but always feel lonely",
+    "ops2": "Be alone but never feel lonely"
+  },
+  {
+    "ops1": "Never be able to lie",
+    "ops2": "Always tell the truth but be constantly misunderstood"
+  },
+  {
+    "ops1": "Always be the richest person in the world",
+    "ops2": "Always be the smartest person in the world"
+  },
+  {
+    "ops1": "Be able to talk to machines",
+    "ops2": "Be able to talk to animals"
+  },
+  {
+    "ops1": "Live a long life but be extremely bored",
+    "ops2": "Live a short life full of excitement"
+  },
+  {
+    "ops1": "Have the ability to control people's dreams",
+    "ops2": "Be able to control your own dreams"
+  },
+  {
+    "ops1": "Be able to change your appearance at will",
+    "ops2": "Be able to change your voice at will"
+  },
+  {
+    "ops1": "Live without any regrets but never learn from your mistakes",
+    "ops2": "Live with regrets but always learn from your mistakes"
+  },
+  {
+    "ops1": "Be able to live in your favorite fictional world",
+    "ops2": "Be able to bring your favorite fictional character to life"
+  },
+  {
+    "ops1": "Be able to see the future but never be able to change it",
+    "ops2": "Be able to change the future but never be able to see it"
+  },
+  {
+    "ops1": "Have the ability to read minds but never be able to forget what you hear",
+    "ops2": "Be able to turn off your ability to read minds but forget everything you heard"
+  },
+  {
+    "ops1": "Always be able to remember your dreams",
+    "ops2": "Never be able to remember your dreams"
+  },
+  {
+    "ops1": "Be able to travel anywhere in the world for free but never be able to stay in one place for long",
+    "ops2": "Stay in one place forever but never leave the country"
+  },
+  {
+    "ops1": "Never need sleep again",
+    "ops2": "Never need food again"
+  },
+  {
+    "ops1": "Be famous but always lonely",
+    "ops2": "Be anonymous but always surrounded by friends"
+  },
+  {
+    "ops1": "Live in a utopia but never be able to leave",
+    "ops2": "Live in a dystopia but always have the option to leave"
+  },
+  {
+    "ops1": "Always be able to find what you're looking for",
+    "ops2": "Always have someone help you find what you're looking for"
+  },
+  {
+    "ops1": "Have the ability to see through walls",
+    "ops2": "Have the ability to read minds"
+  },
+  {
+    "ops1": "Live in a world where everyone is always happy but never experience true emotions",
+    "ops2": "Live in a world where everyone is always sad but experience deep emotions"
+  },
+  {
+    "ops1": "Be able to speak every language but never be able to write",
+    "ops2": "Be able to write every language but never be able to speak"
+  },
+  {
+    "ops1": "Live in a world without any rules",
+    "ops2": "Live in a world with too many rules"
+  },
+  {
+    "ops1": "Be able to never make mistakes but never learn",
+    "ops2": "Make mistakes but always learn from them"
+  },
+  {
+    "ops1": "Have the ability to change one thing in history",
+    "ops2": "Be able to see how history would have turned out differently"
+  },
+  {
+    "ops1": "Be able to talk to plants",
+    "ops2": "Be able to talk to animals"
+  },
+  {
+    "ops1": "Never have to work again but always struggle with boredom",
+    "ops2": "Work constantly but never experience boredom"
+  },
+  {
+    "ops1": "Be able to see into the future",
+    "ops2": "Be able to change the past"
+  },
+  {
+    "ops1": "Always be able to see the bright side of things",
+    "ops2": "Always be able to see the dark side of things"
+  },
+  {
+    "ops1": "Live forever but never be able to make new friends",
+    "ops2": "Live a normal life but always make new friends"
+  },
+  {
+    "ops1": "Be able to change one person's life for the better but never see them again",
+    "ops2": "Never change anyone's life but always see them"
+  },
+  {
+    "ops1": "Have the power to never make mistakes",
+    "ops2": "Have the power to forgive anyone instantly"
+  },
+  {
+    "ops1": "Have the ability to teleport anywhere but never be able to teleport back",
+    "ops2": "Have the ability to teleport back but never be able to teleport anywhere"
+  },
+  {
+    "ops1": "Be able to live without fear",
+    "ops2": "Be able to live without regret"
+  },
+  {
+    "ops1": "Be able to master any skill instantly",
+    "ops2": "Be able to teach anyone anything instantly"
+  },
+  {
+    "ops1": "Have a constant supply of money but never experience happiness",
+    "ops2": "Experience happiness but never have a constant supply of money"
+  },
+  {
+    "ops1": "Be able to make anyone love you but never love anyone",
+    "ops2": "Love everyone but never have anyone love you"
+  },
+  {
+    "ops1": "Live in a world where you are always the best at everything",
+    "ops2": "Live in a world where you are always the worst at everything"
+  },
+  {
+    "ops1": "Be able to know everything but never be able to share your knowledge",
+    "ops2": "Never know anything but always be able to share your knowledge"
+  },
+  {
+    "ops1": "Have a pet that can talk",
+    "ops2": "Have a pet that can fly"
+  },
+  {
+    "ops1": "Always have the ability to see the world from someone else's perspective",
+    "ops2": "Always have the ability to influence someone's perspective"
+  },
+  {
+    "ops1": "Live in a world where everything is possible but nothing is certain",
+    "ops2": "Live in a world where nothing is possible but everything is certain"
+  },
+  {
+    "ops1": "Be able to visit any time in history",
+    "ops2": "Be able to visit any place in history"
+  },
+  {
+    "ops1": "Have unlimited wealth but be constantly bored",
+    "ops2": "Live a modest life but always be entertained"
+  },
+  {
+    "ops1": "Be able to tell if someone is lying",
+    "ops2": "Be able to lie without anyone knowing"
+  },
+  {
+    "ops1": "Have the ability to turn invisible but only for 30 minutes",
+    "ops2": "Be able to fly but only for 30 minutes"
+  },
+  {
+    "ops1": "Live forever but lose all memories of the past",
+    "ops2": "Live a normal life but remember everything forever"
+  },
+  {
+    "ops1": "Never be able to speak again but always communicate with your eyes",
+    "ops2": "Never be able to hear again but always communicate with your hands"
+  },
+  {
+    "ops1": "Have the ability to read minds but only for 5 minutes at a time",
+    "ops2": "Have the ability to control your dreams but only once a month"
+  },
+  {
+    "ops1": "Be able to make any wish come true but only for yourself",
+    "ops2": "Be able to make any wish come true but only for others"
+  },
+  {
+    "ops1": "Be able to switch lives with anyone for 24 hours",
+    "ops2": "Be able to switch lives with anyone for a week"
+  },
+  {
+    "ops1": "Have the power to heal anyone you touch",
+    "ops2": "Have the power to take away someone's pain"
+  },
+  {
+    "ops1": "Always be the smartest person in the room",
+    "ops2": "Always be the funniest person in the room"
+  },
+  {
+    "ops1": "Be able to talk to animals but never be able to talk to humans",
+    "ops2": "Be able to talk to humans but never be able to talk to animals"
+  },
+  {
+    "ops1": "Live a life full of adventure but always face danger",
+    "ops2": "Live a safe life but never experience excitement"
+  },
+  {
+    "ops1": "Be the most powerful person in the world but always be alone",
+    "ops2": "Be the most beloved person in the world but always be powerless"
+  },
+  {
+    "ops1": "Have the ability to change your past",
+    "ops2": "Have the ability to change your future"
+  },
+  {
+    "ops1": "Live in a world where everyone tells the truth",
+    "ops2": "Live in a world where everyone lies"
+  },
+  {
+    "ops1": "Be able to hear people's thoughts but never speak",
+    "ops2": "Be able to speak but never hear people's thoughts"
+  },
+  {
+    "ops1": "Be able to control time but only for 5 minutes at a time",
+    "ops2": "Be able to control time but only once every 5 years"
+  },
+  {
+    "ops1": "Be able to move objects with your mind but only for 10 seconds",
+    "ops2": "Be able to fly but only for 10 seconds"
+  },
+  {
+    "ops1": "Be able to breathe underwater but never be able to breathe in the air",
+    "ops2": "Be able to fly but never be able to walk again"
+  },
+  {
+    "ops1": "Be the richest person in the world but live a lonely life",
+    "ops2": "Be the happiest person in the world but live in poverty"
+  },
+  {
+    "ops1": "Have the ability to see the future but not change anything",
+    "ops2": "Be able to change the past but forget everything you learned"
+  },
+  {
+    "ops1": "Live a life where everyone knows your thoughts",
+    "ops2": "Live a life where you can never know anyone else's thoughts"
+  },
+  {
+    "ops1": "Have the ability to read any book instantly",
+    "ops2": "Be able to learn any skill instantly"
+  },
+  {
+    "ops1": "Be able to walk on water",
+    "ops2": "Be able to walk through walls"
+  },
+  {
+    "ops1": "Be famous but constantly under scrutiny",
+    "ops2": "Be completely unknown but always at peace"
+  },
+  {
+    "ops1": "Be able to create anything you want with a snap of your fingers",
+    "ops2": "Be able to change anything about yourself with a snap of your fingers"
+  },
+  {
+    "ops1": "Be able to always see the good in others",
+    "ops2": "Be able to always see the bad in others"
+  },
+  {
+    "ops1": "Live in a world where everyone is exactly like you",
+    "ops2": "Live in a world where no one is like you"
+  },
+  {
+    "ops1": "Be able to make anyone laugh at will",
+    "ops2": "Be able to make anyone cry at will"
+  },
+  {
+    "ops1": "Be able to take any physical form but never return to your original form",
+    "ops2": "Always stay in your original form but be able to manipulate other people's forms"
+  },
+  {
+    "ops1": "Be constantly surrounded by people but never feel understood",
+    "ops2": "Be completely alone but feel understood"
+  },
+  {
+    "ops1": "Be the strongest person physically",
+    "ops2": "Be the smartest person intellectually"
+  },
+  {
+    "ops1": "Never experience sadness again",
+    "ops2": "Never experience happiness again"
+  },
+  {
+    "ops1": "Be able to control the weather",
+    "ops2": "Be able to control the seasons"
+  },
+  {
+    "ops1": "Always be the most attractive person in the room",
+    "ops2": "Always be the most interesting person in the room"
+  },
+  {
+    "ops1": "Always be able to predict the outcome of any situation",
+    "ops2": "Always be able to control the outcome of any situation"
+  },
+  {
+    "ops1": "Have all your dreams come true but live in constant fear",
+    "ops2": "Have none of your dreams come true but live in peace"
+  },
+  {
+    "ops1": "Be able to hear people's thoughts but only their negative thoughts",
+    "ops2": "Be able to hear people's thoughts but only their positive thoughts"
+  },
+  {
+    "ops1": "Live a life where no one ever lies to you",
+    "ops2": "Live a life where everyone always tells you the truth, no matter how harsh"
+  },
+  {
+    "ops1": "Be able to communicate with any animal",
+    "ops2": "Be able to communicate with any plant"
+  },
+  {
+    "ops1": "Be able to turn invisible but only for 10 minutes",
+    "ops2": "Be able to fly but only for 10 minutes"
+  },
+  {
+    "ops1": "Be able to travel to any country for free",
+    "ops2": "Be able to live in any country of your choice permanently"
+  },
+  {
+    "ops1": "Never be able to read again",
+    "ops2": "Never be able to write again"
+  },
+  {
+    "ops1": "Always be able to get what you want but never feel satisfied",
+    "ops2": "Never be able to get what you want but always feel content"
+  },
+  {
+    "ops1": "Be able to stay in your dream job forever but never experience growth",
+    "ops2": "Be able to switch careers frequently but never find your dream job"
+  },
+  {
+    "ops1": "Be able to communicate with aliens",
+    "ops2": "Be able to communicate with artificial intelligence"
+  },
+  {
+    "ops1": "Live a perfect life but have no friends",
+    "ops2": "Live a challenging life but always have great friends"
+  },
+  {
+    "ops1": "Be able to visit any place on Earth at any time",
+    "ops2": "Be able to travel anywhere in the universe but only once"
+  },
+  {
+    "ops1": "Be a master at one thing but terrible at everything else",
+    "ops2": "Be a jack-of-all-trades but never a master at anything"
+  },
+  {
+    "ops1": "Live without fear but constantly be in danger",
+    "ops2": "Live with fear but always be safe"
+  },
+  {
+    "ops1": "Always be the life of the party",
+    "ops2": "Always be the quietest person in the room"
+  },
+  {
+    "ops1": "Be a superhero but only have one superpower",
+    "ops2": "Be a normal person but have access to all superheroes' powers"
+  },
+  {
+    "ops1": "Have everything you ever wanted but never experience love",
+    "ops2": "Experience true love but never get everything you wanted"
+  },
+  {
+    "ops1": "Have the ability to live forever but never be able to experience any new things",
+    "ops2": "Live a normal life but always have new experiences"
+  },
+  {
+    "ops1": "Always get what you want in life but never feel fulfilled",
+    "ops2": "Never get what you want in life but always feel fulfilled"
+  },
+  {
+    "ops1": "Be able to time travel to the past",
+    "ops2": "Be able to time travel to the future"
+  },
+  {
+    "ops1": "Always be able to get along with anyone",
+    "ops2": "Never get along with anyone but always speak your mind"
+  },
+  {
+    "ops1": "Be able to never make a mistake but never learn from them",
+    "ops2": "Be able to make mistakes but learn from every one of them"
+  },
+  {
+    "ops1": "Live in a world where everyone speaks the same language but has different cultures",
+    "ops2": "Live in a world where everyone speaks different languages but shares the same culture"
+  },
+  {
+    "ops1": "Always be the smartest person in the room but never be able to show it",
+    "ops2": "Always be the dumbest person in the room but be able to prove yourself"
+  },
+  {
+    "ops1": "Have unlimited money but no time to enjoy it",
+    "ops2": "Have limited money but plenty of time to enjoy it"
+  },
+  {
+    "ops1": "Be able to solve any problem but never have the answer you need",
+    "ops2": "Never be able to solve any problem but always have the right answer"
+  },
+  {
+    "ops1": "Always be able to understand any language but never be able to speak it",
+    "ops2": "Always be able to speak any language but never understand it"
+  },
+  {
+    "ops1": "Have unlimited energy but never be able to sleep",
+    "ops2": "Be able to sleep as much as you want but have no energy"
+  },
+  {
+    "ops1": "Be able to read anyone's thoughts but only once a day",
+    "ops2": "Be able to communicate with anyone telepathically but never physically"
+  },
+  {
+    "ops1": "Live forever but have no memories of your past",
+    "ops2": "Live a short life but always have vivid memories"
+  },
+  {
+    "ops1": "Be able to manipulate time but only for 10 minutes a day",
+    "ops2": "Be able to manipulate time but only once every 10 years"
+  },
+  {
+    "ops1": "Live in a world where everything is given to you but you never appreciate it",
+    "ops2": "Live in a world where you have to work hard for everything but always appreciate it"
+  },
+  {
+    "ops1": "Have a career you love but never get paid well",
+    "ops2": "Have a career you hate but get paid very well"
+  },
+  {
+    "ops1": "Always know what others are thinking but never be able to speak your mind",
+    "ops2": "Never know what others are thinking but always be able to speak your mind"
+  },
+  {
+    "ops1": "Be able to speak to animals but never be able to speak to humans",
+    "ops2": "Be able to speak to humans but never be able to speak to animals"
+  },
+  {
+    "ops1": "Always be able to achieve your goals but never feel satisfaction",
+    "ops2": "Never be able to achieve your goals but feel satisfaction in trying"
+  },
+  {
+    "ops1": "Have everything you ever wanted but no time to enjoy it",
+    "ops2": "Have nothing you ever wanted but time to enjoy everything"
+  },
+  {
+    "ops1": "Have the ability to stop time but only for 10 seconds",
+    "ops2": "Be able to freeze everything but yourself"
+  },
+  {
+    "ops1": "Live without internet for a month",
+    "ops2": "Live without TV for a month"
+  },
+  {
+    "ops1": "Always have the perfect amount of sleep",
+    "ops2": "Never need sleep again"
+  },
+  {
+    "ops1": "Always get free food but never be able to enjoy it",
+    "ops2": "Never get food for free but enjoy every meal"
+  },
+  {
+    "ops1": "Have the ability to talk to animals",
+    "ops2": "Have the ability to speak any language fluently"
+  },
+  {
+    "ops1": "Be able to live in any country but never leave it",
+    "ops2": "Be able to travel to any country but never be able to stay"
+  },
+  {
+    "ops1": "Be the smartest person in the world but be constantly alone",
+    "ops2": "Be the most popular person in the world but always feel misunderstood"
+  },
+  {
+    "ops1": "Have all the money in the world but no family or friends",
+    "ops2": "Have a loving family and friends but always struggle financially"
+  },
+  {
+    "ops1": "Live forever but be stuck in the same place",
+    "ops2": "Live a short life but travel anywhere you want"
+  },
+  {
+    "ops1": "Be able to solve any problem in the world but be constantly unhappy",
+    "ops2": "Be unable to solve any problems but be happy all the time"
+  },
+  {
+    "ops1": "Always be right but nobody listens to you",
+    "ops2": "Always be wrong but everyone listens to you"
+  },
+  {
+    "ops1": "Get a million dollars instantly but lose everything the next day",
+    "ops2": "Get $1,000 a day for the rest of your life but never have anything luxurious"
+  },
+  {
+    "ops1": "Be a famous singer but never be able to make music again",
+    "ops2": "Be a famous musician but never be able to perform again"
+  },
+  {
+    "ops1": "Live in a mansion with no friends",
+    "ops2": "Live in a small house with lots of friends"
+  },
+  {
+    "ops1": "Have a completely automated home",
+    "ops2": "Have a completely manual home that you take care of"
+  },
+  {
+    "ops1": "Never be able to hear music again",
+    "ops2": "Never be able to watch TV again"
+  },
+  {
+    "ops1": "Be able to erase all your memories",
+    "ops2": "Be able to keep all your memories but feel every pain again"
+  },
+  {
+    "ops1": "Be completely anonymous forever",
+    "ops2": "Be famous but constantly in the public eye"
+  },
+  {
+    "ops1": "Never experience any emotions",
+    "ops2": "Experience all emotions but in extreme intensities"
+  },
+  {
+    "ops1": "Only be able to use technology from the 80s",
+    "ops2": "Only be able to use technology from the 60s"
+  },
+  {
+    "ops1": "Have the ability to pause time but only for 10 minutes",
+    "ops2": "Have the ability to rewind time but only for 1 hour"
+  },
+  {
+    "ops1": "Be able to make anyone laugh",
+    "ops2": "Be able to make anyone cry"
+  },
+  {
+    "ops1": "Never make a mistake but always feel unsatisfied",
+    "ops2": "Make mistakes often but learn and grow from them"
+  },
+  {
+    "ops1": "Have a vacation that lasts forever but never leave the same place",
+    "ops2": "Go on short vacations but visit many different places"
+  },
+  {
+    "ops1": "Live a life full of adventure but never settle down",
+    "ops2": "Live a peaceful life but never have adventures"
+  },
+  {
+    "ops1": "Know the answers to every question but never be able to communicate it",
+    "ops2": "Be able to communicate perfectly but never know the answers to anything"
+  },
+  {
+    "ops1": "Have the power to control people's thoughts",
+    "ops2": "Have the power to control people's actions"
+  },
+  {
+    "ops1": "Always know the truth but never be able to share it",
+    "ops2": "Never know the truth but always be able to share your opinion"
+  },
+  {
+    "ops1": "Be able to predict the future but be unable to change it",
+    "ops2": "Be able to change the future but never know what will happen"
+  },
+  {
+    "ops1": "Have the ability to travel anywhere in the world instantly but only once",
+    "ops2": "Be able to travel anywhere in the world but only once every 10 years"
+  },
+  {
+    "ops1": "Never experience failure but never succeed",
+    "ops2": "Experience failure often but succeed in the end"
+  },
+  {
+    "ops1": "Be surrounded by people who love you but never feel alone",
+    "ops2": "Be completely alone but always feel loved"
+  },
+  {
+    "ops1": "Be able to live in space for a year but never return to Earth",
+    "ops2": "Be able to live on Earth forever but never be able to leave it"
+  },
+  {
+    "ops1": "Be able to understand every language but never be able to speak",
+    "ops2": "Be able to speak every language but never understand them"
+  },
+  {
+    "ops1": "Be able to change the past but forget your own past",
+    "ops2": "Be able to change the future but always know what will happen"
+  },
+  {
+    "ops1": "Have a pet dinosaur",
+    "ops2": "Have a pet dragon"
+  },
+  {
+    "ops1": "Be a wizard but have no friends",
+    "ops2": "Be a non-magical person but always have friends"
+  },
+  {
+    "ops1": "Have the ability to teleport but only once a year",
+    "ops2": "Have the ability to travel anywhere but always take a long time"
+  },
+  {
+    "ops1": "Live a life without any material wealth",
+    "ops2": "Live a life full of material wealth but no emotional connection"
+  },
+  {
+    "ops1": "Always get what you want but only for a short time",
+    "ops2": "Never get what you want but always be content with what you have"
+  },
+  {
+    "ops1": "Be the smartest person in the room but be ignored",
+    "ops2": "Be the least intelligent person in the room but always be heard"
+  },
+  {
+    "ops1": "Live in a world without sadness",
+    "ops2": "Live in a world without happiness"
+  },
+  {
+    "ops1": "Always be the center of attention but never feel happy",
+    "ops2": "Never be the center of attention but always feel fulfilled"
+  },
+  {
+    "ops1": "Have a billion dollars but be constantly unhappy",
+    "ops2": "Have no money but be constantly happy"
+  },
+  {
+    "ops1": "Have unlimited time but no opportunities",
+    "ops2": "Have no time but unlimited opportunities"
+  },
+  {
+    "ops1": "Have a perfect body but no personality",
+    "ops2": "Have a perfect personality but no physical appeal"
+  },
+  {
+    "ops1": "Always be the first person to wake up but never get enough sleep",
+    "ops2": "Always be the last person to wake up but feel fully rested"
+  },
+  {
+    "ops1": "Have the ability to bring things back to life but never use it",
+    "ops2": "Have the ability to create anything but never use it"
+  },
+  {
+    "ops1": "Be able to feel other people's emotions but never your own",
+    "ops2": "Be able to only feel your own emotions but never others'"
+  },
+  {
+    "ops1": "Live in a perfect world but never feel joy",
+    "ops2": "Live in an imperfect world but always feel joy"
+  },
+  {
+    "ops1": "Have the ability to control people's emotions",
+    "ops2": "Have the ability to control people's thoughts"
+  },
+  {
+    "ops1": "Have infinite wealth but no friends",
+    "ops2": "Have no money but great friends"
+  },
+  {
+    "ops1": "Never be able to eat chocolate again",
+    "ops2": "Never be able to drink coffee again"
+  },
+  {
+    "ops1": "Always have one perfect meal but never eat anything else",
+    "ops2": "Be able to eat anything but never have a perfect meal"
+  },
+  {
+    "ops1": "Live in a world where no one ever lies",
+    "ops2": "Live in a world where everyone can lie freely"
+  },
+  {
+    "ops1": "Always be the happiest person in the world but live alone",
+    "ops2": "Be constantly sad but always be surrounded by loved ones"
+  },
+  {
+    "ops1": "Be the best at one thing but be bad at everything else",
+    "ops2": "Be okay at everything but never be the best at anything"
+  },
+  {
+    "ops1": "Never age physically but age mentally",
+    "ops2": "Age physically but never age mentally"
+  },
+  {
+    "ops1": "Be the most successful person in the world but have no peace of mind",
+    "ops2": "Be at peace with yourself but have no success"
+  },
+  {
+    "ops1": "Always be surrounded by people but never feel connected",
+    "ops2": "Always be alone but feel deeply connected to yourself"
+  },
+  {
+    "ops1": "Have the ability to make anyone love you but never be able to love yourself",
+    "ops2": "Be able to love yourself but never have anyone love you"
+  },
+  {
+    "ops1": "Have the ability to heal anyone but never heal yourself",
+    "ops2": "Heal yourself but never heal anyone else"
+  },
+  {
+    "ops1": "Have everything but always feel empty",
+    "ops2": "Have nothing but feel completely fulfilled"
+  },
+  {
+    "ops1": "Have the ability to instantly learn any skill but never enjoy it",
+    "ops2": "Have the ability to learn skills slowly but thoroughly enjoy the process"
+  }
+]
