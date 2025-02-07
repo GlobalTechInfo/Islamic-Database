@@ -1,0 +1,438 @@
+  Use a flashlight to light up a dark room and brighten someone’s day.
+  To catch someone's attention, compliment them on something unique about them.
+  If you want to make someone smile, simply say, Your smile is contagious.
+  Keep your heart open, and let someone know, You’ve got the key to my heart.
+  Use a mirror to show your reflection and say, I see someone incredible looking back at me.
+  Keep a positive attitude and say, Is your name Google? Because you have everything I’ve been searching for.
+  If you want to impress, say, Are you French? Because Eiffel for you.
+  To make someone laugh, ask, Are you a magician? Because every time I look at you, everyone else disappears.
+  Bring out the charm with, I’m not a photographer, but I can definitely picture us together.
+  Start a conversation with, Do you believe in love at first sight, or should I walk by again?
+  Share a sweet compliment like, Your hand looks heavy—can I hold it for you?
+  Drop this line to make someone feel special, Do you have a map? Because I keep getting lost in your eyes.
+  Give someone butterflies by saying, Are you made of copper and tellurium? Because you’re Cu-Te.
+  Make them laugh with, If I were a cat, I’d spend all 9 lives with you.
+  Show your wit by saying, Do you have a Band-Aid? Because I just scraped my knee falling for you.
+  Break the ice with, Are you a parking ticket? Because you’ve got ‘fine’ written all over you.
+  Make them blush with, Are you a campfire? Because you’re hot and I want s’more.
+  Start a friendly chat with, Is your name Wi-Fi? Because I’m feeling a connection.
+  Make them smile with, I must be a snowflake, because I’ve fallen for you.
+  Let your humor shine with, Do you have a pencil? Because I want to draw a smile on your face.
+  Show your charm with, Are you an alien? Because your beauty is out of this world.
+  Start a conversation with, Are you a time traveler? Because I can see you in my future.
+  Impress with, If you were a vegetable, you’d be a cute-cumber.
+  Break the ice with, If you were a fruit, you’d be a fineapple.
+  Let your sense of humor shine with, Is your name Chapstick? Because you’re da balm!
+  Catch their attention by saying, Are you a dictionary? Because you add meaning to my life.
+  Show your charm with, Do you have a sun? Because you light up my world.
+  Brighten someone’s day with, Are you a loan from a bank? Because you have my interest.
+  Start a conversation with, Do you like Star Wars? Because Yoda one for me!
+  Impress with, You must be a magician, because whenever I look at you, everyone else disappears.
+  Give a sweet compliment like, You must be made of stars because you light up the sky.
+  Make them smile with, Is your dad a boxer? Because you’re a knockout.
+  Start a lighthearted chat with, If you were a triangle, you’d be acute one.
+  Let your humor shine with, Do you have a map? I keep getting lost in your eyes.
+  Show your charm with, Are you a 45-degree angle? Because you’re acute-y.
+  Make someone laugh by saying, If beauty were time, you’d be an eternity.
+  Break the ice with, If I could rearrange the alphabet, I’d put U and I together.
+  Let them know how special they are with, You must be tired, because you’ve been running through my mind all day.
+  Catch someone’s attention with, Do you have a pencil? I want to draw a smile on your face.
+  Show off your creativity with, I’d say God bless you, but it looks like he already did.
+  Let someone know you’re thinking of them with, You must be a star, because your beauty shines bright.
+  Start a conversation with, You must be a magician, because every time I look at you, I’m amazed.
+  Are you a campfire? Because you’re hot and I’m drawn to you.
+  Can I follow you home? Cause my parents always told me to follow my dreams.
+  Are you French? Because Eiffel for you.
+  Is your name Google? Because you have everything I’ve been searching for.
+  Can I take you out for dinner? Because I can’t seem to get you out of my mind.
+  Do you have a Band-Aid? Because I just scraped my knee falling for you.
+  Do you believe in love at first sight, or should I walk by again?
+  You must be tired because you’ve been running through my mind all day.
+  Is your dad a boxer? Because you’re a knockout.
+  Are you a magician? Because every time I look at you, everyone else disappears.
+  If I could rearrange the alphabet, I’d put U and I together.
+  Are you an angel? Because heaven is missing one.
+  Are you a parking ticket? Because you’ve got ‘fine’ written all over you.
+  You must be made of copper and tellurium because you’re Cu-Te.
+  Is your name Wi-Fi? Because I’m feeling a connection.
+  If I were a cat, I’d spend all 9 lives with you.
+  Are you a dictionary? Because you add meaning to my life.
+  Do you have a sunburn, or are you always this hot?
+  Can I take you out for coffee? Because I like you a latte.
+  Is your name Chapstick? Because you’re da balm.
+  Is your name Mickey? Because you’re so fine you blew my mind.
+  Are you a time traveler? Because I can see you in my future.
+  If I were a vegetable, I’d be a cute-cumber.
+  Is it hot in here or is it just you?
+  Do you like raisins? How about a date?
+  Are you a 45-degree angle? Because you’re acute-y.
+  Can you lend me a kiss? I promise I’ll give it back.
+  Are you a snowflake? Because I’ve fallen for you.
+  Do you have a mirror in your pocket? Because I can see myself in your pants.
+  Do you know if there are any Wi-Fi signals around here? Because I’m feeling a connection.
+  If you were a vegetable, you’d be a cute-cumber.
+  You must be the square root of -1 because you can’t be real.
+  Are you made of uranium? Because you’re 92 protons short of being perfect.
+  Can I follow you home? Because my parents always told me to follow my dreams.
+  Are you a phone charger? Because without you, I’d die.
+  Are you a bee? Because you’re the queen of my heart.
+  Are you the ocean? Because I’m lost at sea.
+  Are you a camera? Because every time I look at you, I smile.
+  If I were to ask you out, would your answer be the same as the answer to this question?
+  Do you like spicy food? Because you’re really hot.
+  Are you an alien? Because your beauty is out of this world.
+  Are you the moon? Because even when it’s dark, you still seem to shine.
+  Are you a snowstorm? Because you make my heart race.
+  Can I take you to the movies? Because I want to see us together.
+  Are you a light bulb? Because you brighten up my day.
+  You must be a magician because every time I look at you, everyone else disappears.
+  Is your name Starbucks? Because I like you a latte.
+  You must be a loan from a bank, because you have my interest.
+  If I were a cat, I’d spend all 9 lives with you.
+  You’re so sweet, you make sugar jealous.
+  Are you an angel? Because I think I’ve found heaven.
+  Are you the sun? Because you light up my world.
+  You must be a star, because your beauty lights up the sky.
+  Can I borrow a pen? I want to write down the moment I met you.
+  Are you a tree? Because I’m falling for you.
+  Do you believe in fate? Because we were meant to meet.
+  Are you a pair of glasses? Because you make everything look clearer.
+  I must be a snowflake, because I’ve fallen for you.
+  You must be a star, because your beauty lights up the night sky.
+  If I could rearrange the alphabet, I’d put U and I together.
+  Can you tell me the time? Because I’m lost in your eyes.
+  Are you a firecracker? Because you’re a hot little spark.
+  Is there a sparkle in your eye, or are you just happy to see me?
+  Are you a superhero? Because you’ve just saved my day.
+  If I were a snowman, I’d melt for you.
+  Are you a light bulb? Because you brighten up my world.
+  If kisses were snowflakes, I’d send you a blizzard.
+  Can I take you to the movies? Because I’d love to see us together.
+  You must be made of sugar, because you’re sweet as can be.
+  Are you the missing piece? Because I feel like I’ve found the one.
+  Do you have a map? I keep getting lost in your eyes.
+  I must be a snowflake because I’ve fallen for you.
+  Are you a star? Because your beauty lights up the night.
+  Are you a mirror? Because I can see myself in your eyes.
+  Is your name Ariel? Because we mermaid for each other.
+  Are you a flame? Because you’re heating me up.
+  You must be a baker because you’re making my heart rise.
+  Are you a puzzle? Because I’m falling for every piece of you.
+  If beauty were a crime, you’d be serving a life sentence.
+  You must be a magician, because whenever I look at you, everything else disappears.
+  Are you a candy bar? Because you’re sweet and I want to share you with everyone.
+  You’re the reason I check my phone every 5 minutes.
+  Can you feel the spark? Because I think we’ve got a connection.
+  Are you a balloon? Because you make my heart float.
+  Are you a rose? Because every time I see you, my heart blooms.
+  Can you help me with my homework? I need to know how to love you.
+  Is your name Cinderella? Because when I see you, time stops.
+  You must be a magician because whenever I look at you, I’m under your spell.
+  Do you have a Band-Aid? Because I just fell for you.
+  If you were a vegetable, you’d be a cute-cumber.
+  Are you a mirror? Because I see myself in your eyes.
+  Are you made of gold? Because you shine like the sun.
+  Can you hold this for a second? (Hold out your hand) I want to hold your heart forever.
+  Is your name Google? Because you’ve got everything I’ve been searching for.
+  Are you a dictionary? Because you add meaning to my life.
+  You must be a camera because every time I look at you, I smile.
+  Are you a knight? Because you’ve just rescued me with your charm.
+  Do you have a pencil? I want to draw a smile on your face.
+  Are you a wave? Because you swept me off my feet.
+  If kisses were stars, I’d give you the sky.
+  You must be a treasure because I’ve been looking for you my whole life.
+  Are you a sunbeam? Because you brighten my day.
+  Is your name Waldo? Because I’ve been looking for you everywhere.
+  Are you a dictionary? Because you’re adding meaning to my life.
+  You must be a magician, because whenever I look at you, everyone else disappears.
+  Can I offer you a hand? Because I’m falling for you.
+  Are you a coin? Because I’m falling heads over heels for you.
+  Is it just me, or did it just get a little warmer when you walked in?
+  Are you a shooting star? Because my wish came true when I saw you.
+  You must be a light bulb, because you brighten up my world.
+  Can you lend me a pencil? Because I want to draw you into my life.
+  Are you a racecar? Because you’ve got my heart racing.
+  If beauty were a crime, you’d be serving a life sentence.
+  If I were a cat, I’d spend all nine lives with you.
+  Is your name Google? Because you have everything I’ve been searching for.
+  Are you a compass? Because you’re guiding me in the right direction.
+  Do you have a map? Because I keep getting lost in your eyes.
+  Are you a fruit? Because you’re as sweet as an apple.
+  Do you have a mirror in your pocket? Because I can see myself in your future.
+  Are you a flower? Because you make my world bloom.
+  Is your name Summer? Because you’re hot, and I can’t wait to spend more time with you.
+  Are you a Wi-Fi signal? Because I’m feeling a connection.
+  Do you have a name? Or can I call you mine?
+  Are you the ocean? Because I’m lost at sea.
+  Are you a firework? Because you light up the sky.
+  Is your heart a library? Because I’m checking you out.
+  If you were a vegetable, you’d be a cute-cumber.
+  Are you a candle? Because you light up the room.
+  Are you an angel? Because I think heaven is missing one.
+  If you were a triangle, you’d be acute-y.
+  You must be tired because you’ve been running through my mind all day.
+  Is your name Paris? Because you’re simply magnifique.
+  Are you a cloud? Because you float through my thoughts.
+  Are you a superhero? Because you just saved my day.
+  If I were a snowman, I’d melt for you.
+  Are you a puzzle? Because you complete me.
+  Are you a book? Because I can’t put you down.
+  Can I follow you home? Because my parents always told me to follow my dreams.
+  Are you a camera? Because every time I look at you, I smile.
+  You must be a parking ticket because you’ve got “fine” written all over you.
+  Can I take you to dinner? Because I’m craving something sweet like you.
+  Are you a star? Because your beauty lights up my life.
+  Do you believe in love at first sight, or should I walk by again?
+  Are you a painter? Because you just colored my world.
+  Are you a baker? Because you’ve got me rising for you.
+  Are you a magician? Because whenever I look at you, everything disappears.
+  Are you a time traveler? Because I see you in my future.
+  If I could rearrange the alphabet, I’d put U and I together.
+  You must be a snowflake, because I’ve fallen for you.
+  Are you a mirror? Because I see myself in your eyes.
+  Is your name Ariel? Because we mermaid for each other.
+  Are you a battery? Because you’re making my heart race.
+  Can I borrow a pencil? I want to erase your past and write our future.
+  You’re like a song, I can’t get you out of my head.
+  Is your name Google? Because you have all the answers I need.
+  Can you help me find my heart? Because I think I lost it to you.
+  If I had a star for every time you brightened my day, I’d have a galaxy in my hand.
+  Are you a snowstorm? Because you’ve got me falling for you.
+  Can I take a picture of you? Because I want to show Santa what I want for Christmas.
+  Are you a magician? Because whenever I look at you, everyone else disappears.
+  You must be a star, because your beauty lights up the whole sky.
+  Do you have a pencil? I want to draw a smile on your face.
+  Are you a volcano? Because you’re making my heart erupt.
+  Are you a cupcake? Because you’re sweet and I want a taste.
+  You’re so sweet that I’m getting a toothache.
+  Is your name Fire? Because you’re burning up my heart.
+  If I were a superhero, I’d be your sidekick, because I can’t live without you.
+  You’re a work of art, and I’d love to frame you.
+  Are you an artist? Because you’ve painted my world with love.
+  Are you the sun? Because you brighten up my day.
+  You’re so beautiful that you made me forget my pickup line.
+  Are you a flower? Because you’ve bloomed in my heart.
+  Is your dad a baker? Because you’re a cutie-pie.
+  Can you lend me a kiss? I promise I’ll give it back.
+  Are you a spaceship? Because you’re out of this world.
+  Are you a key? Because you unlock my heart.
+  If you were a vegetable, you’d be a sweet potato.
+  Do you have a light? Because you just lit up my world.
+  Are you a tornado? Because you’ve swept me off my feet.
+  Is your name Destiny? Because we were meant to be.
+  Are you a cloud? Because you’re always on my mind.
+  Can I borrow a map? Because I keep getting lost in your eyes.
+  You must be a candle, because you brighten up every room.
+  Are you a lollipop? Because you’re sweet and I want to share you with the world.
+  If beauty were a crime, you’d be serving a life sentence.
+  You must be a song, because I can’t get you out of my head.
+  If I could rearrange the stars, I would put you and I together.
+  Are you a wish? Because I’ve been wishing for you all my life.
+  You must be a time traveler, because I see you in my future.
+  You must be a star because your beauty shines bright.
+  Can I offer you a rose? Because you deserve a beautiful one.
+  Are you a rainbow? Because you’ve brightened up my day.
+  Can I take you to lunch? Because I can’t stop thinking about you.
+  Are you a puzzle? Because you complete me.
+  Is your dad a boxer? Because you’re a knockout.
+  Are you a magician? Because whenever I look at you, everyone else disappears.
+  If you were a vegetable, you’d be a cute-cumber.
+  Are you a campfire? Because you’re hot and I want s’more.
+  Are you a unicorn? Because you’re one of a kind.
+  Are you French? Because Eiffel for you.
+  Can you lend me a pen? I want to write down the moment I met you.
+  Is your name Chapstick? Because you’re da balm.
+  Are you a bank loan? Because you’ve got my interest.
+  Do you believe in fate? Because I think we were meant to meet.
+  If you were a cat, you’d purrfect.
+  You must be made of copper and tellurium, because you’re Cu-Te.
+  Are you Wi-Fi? Because I’m feeling a connection.
+  Can I follow you home? Cause my parents always told me to follow my dreams.
+  Is your name Google? Because you have everything I’ve been searching for.
+  If I were a cat, I’d spend all nine lives with you.
+  Are you a star? Because your beauty lights up the night.
+  Can I take a picture of you? Because I want to show Santa what I want for Christmas.
+  If you were a fruit, you’d be a fineapple.
+  You must be a magician, because whenever I look at you, I feel like I’m in a dream.
+  Are you an angel? Because heaven is missing one.
+  Are you a time traveler? Because I see you in my future.
+  Are you a painter? Because you just colored my world.
+  Is your name Paris? Because you’re magnifique.
+  Are you a firework? Because you light up the sky.
+  You must be tired, because you’ve been running through my mind all day.
+  Do you have a Band-Aid? Because I just scraped my knee falling for you.
+  Are you an alien? Because your beauty is out of this world.
+  Are you a phone? Because I can’t stop calling you.
+  Do you have a pencil? Because I want to erase your past and write our future.
+  Are you a snowflake? Because I’ve fallen for you.
+  Are you a volcano? Because you’re hot and you’re making my heart erupt.
+  Are you a diamond? Because you’re priceless.
+  Are you a camera? Because every time I look at you, I smile.
+  Are you a doctor? Because you’ve cured my loneliness.
+  Can I borrow a map? Because I keep getting lost in your eyes.
+  Are you a cookie? Because you’re sweet and I can’t stop eating you up.
+  Is your name Wi-Fi? Because I’m feeling a strong connection.
+  If beauty were a crime, you’d be serving a life sentence.
+  If I were a snowman, I’d melt for you.
+  Are you a genie? Because you just granted my wish.
+  Are you a light bulb? Because you light up my world.
+  Can I take you to dinner? Because I want to spend more time with you.
+  You’re like a dictionary; you add meaning to my life.
+  Are you a cupcake? Because you’re sweet and irresistible.
+  Are you a song? Because you’re stuck in my head.
+  If I could rearrange the alphabet, I’d put U and I together.
+  Are you a firefly? Because you light up my night.
+  Are you a book? Because I can’t stop reading you.
+  If you were a flower, you’d be a daisy.
+  Are you the moon? Because you light up my dark side.
+  Can you lend me your heart? Because I think I’ve fallen for you.
+  Is your name Destiny? Because we were meant to be.
+  Are you a rainbow? Because you brighten up my day.
+  Do you believe in love at first sight, or should I walk by again?
+  You must be a parking ticket, because you’ve got “fine” written all over you.
+  You must be a shooting star, because you just made my wish come true.
+  Are you a cloud? Because you float through my mind.
+  You’re like a ray of sunshine, lighting up my world.
+  You must be the ocean, because I’m lost at sea.
+  If you were a tree, you’d be a fine pine.
+  Are you a broom? Because you just swept me off my feet.
+  If you were a superhero, you’d be my Wonder Woman.
+  You’re like a cup of tea, because you’re exactly what I needed.
+  Are you a puzzle? Because you complete me.
+  You must be a cupcake, because you make my heart skip a beat.
+  Are you a painting? Because every moment with you is a masterpiece.
+  Are you an emoji? Because you’ve just made my day.
+  You must be a phone, because I can’t stop checking you out.
+  Are you a bookmark? Because you’ve kept me interested all day.
+  If I could rearrange the stars, I’d put you and I together.
+  Are you an angel? Because I’ve been praying for someone like you.
+  If I were a cat, I’d want to spend all nine lives with you.
+  Are you a knight? Because you’ve just rescued my heart.
+  Are you a guitar? Because you’re playing all the right chords in my heart.
+  Are you a compass? Because you’re guiding me to happiness.
+  You must be a candy bar, because you’re so sweet.
+  Are you a light? Because you brighten up the room.
+  If you were a book, you’d be a bestseller.
+  Do you have a mirror in your pocket? Because I can see myself in your future.
+  Are you a train? Because you’re on track to my heart.
+  Are you a clock? Because you’re ticking away in my mind.
+  Are you a photo? Because I can’t stop looking at you.
+  Is your dad a boxer? Because you’re a knockout.
+  You must be a superhero, because I’m in awe of your powers.
+  Are you a mathematician? Because you’ve solved the equation to my heart.
+  You must be a lock, because I’m falling for you and you hold the key.
+  Can I follow you home? Cause my parents always told me to follow my dreams.
+  You must be a telescope, because you just took me to the stars.
+  Are you a rose? Because you’re beautiful, and I want to hold you close.
+  If I could rearrange the alphabet, I’d put U and I together.
+  Are you a cake? Because you’re sweet and I want a piece of you.
+  If I were to ask you out, would your answer be the same as the answer to this question?
+  Are you a pillow? Because I’m falling for you and I want to rest on you.
+  Are you an artist? Because you’ve painted my world with love.
+  You must be a star because you light up my night.
+  Are you a key? Because you unlocked my heart.
+  You must be a jigsaw puzzle, because you complete me.
+  If I were a snowflake, I’d fall for you every time.
+  Are you an ice cream cone? Because I’m melting for you.
+  Are you a cupcake? Because you make life a little sweeter.
+  Is your name light? Because you brighten my day.
+  Are you a piece of candy? Because I just want to unwrap you.
+  You must be a painting, because you’re a work of art.
+  Are you a mirror? Because I can see myself in your eyes.
+  If I could rearrange the alphabet, I’d put U and I together.
+  You must be the square root of -1, because you can’t be real.
+  Do you have a map? Because I keep getting lost in your eyes.
+  Are you French? Because Eiffel for you.
+  If you were a vegetable, you’d be a cute-cumber.
+  Are you an angel? Because heaven is missing one.
+  Can I take you out for dinner? Because I can’t seem to get you out of my mind.
+  Are you a magician? Because whenever I look at you, everyone else disappears.
+  You must be a campfire, because you’re hot and I want s’more.
+  Can I borrow a pen? I want to write down the moment I met you.
+  If I were a cat, I’d spend all nine lives with you.
+  Are you a snowflake? Because I’ve fallen for you.
+  Are you Wi-Fi? Because I’m feeling a connection.
+  If you were a fruit, you’d be a fineapple.
+  Is your name Google? Because you have everything I’ve been searching for.
+  Are you a parking ticket? Because you’ve got “fine” written all over you.
+  You must be a shooting star, because you just made my wish come true.
+  If I could rearrange the stars, I’d put you and I together.
+  Are you a time traveler? Because I see you in my future.
+  Are you a camera? Because every time I look at you, I smile.
+  Are you a firework? Because you light up the sky.
+  If you were a tree, you’d be a fine pine.
+  You must be tired, because you’ve been running through my mind all day.
+  If you were a flower, you’d be a daisy.
+  Are you a dictionary? Because you add meaning to my life.
+  Can you lend me your heart? Because I think I’ve fallen for you.
+  Is your name Paris? Because you’re magnifique.
+  You must be a diamond, because you’re priceless.
+  Are you a light bulb? Because you light up my world.
+  Can I follow you home? Cause my parents always told me to follow my dreams.
+  Are you an alien? Because your beauty is out of this world.
+  Is your dad a boxer? Because you’re a knockout.
+  If beauty were a crime, you’d be serving a life sentence.
+  Can I take you to dinner? Because I want to spend more time with you.
+  Are you a cupcake? Because you’re sweet and irresistible.
+  Are you a piece of art? Because I can’t stop admiring you.
+  You must be a cloud, because you’re floating through my mind.
+  You must be a superhero, because I’m in awe of your powers.
+  Are you a song? Because you’re stuck in my head.
+  If you were a book, you’d be a bestseller.
+  Are you a train? Because you’re on track to my heart.
+  Do you have a Band-Aid? Because I just scraped my knee falling for you.
+  You must be a pencil, because you’re always on my mind.
+  Are you a guitar? Because you’re playing all the right chords in my heart.
+  Can I take a picture of you? Because I want to show Santa what I want for Christmas.
+  Are you a jigsaw puzzle? Because you complete me.
+  You’re like a dictionary; you add meaning to my life.
+  If you were a cake, you’d be a perfect slice.
+  Are you a calendar? Because you’re a date I don’t want to forget.
+  You must be a snowman, because you melt my heart.
+  Are you a broom? Because you just swept me off my feet.
+  You must be a star, because you light up my night.
+  Are you a wizard? Because whenever I’m with you, I feel magical.
+  Are you a fire? Because you’re heating up my world.
+  Can I borrow a map? Because I keep getting lost in your eyes.
+  You must be a heart surgeon, because you just took my heart.
+  Are you a rocket? Because you’re taking me to new heights.
+  Are you an artist? Because you’ve painted my world with love.
+  Can I follow you? Because my parents always told me to follow my dreams.
+  Are you a library book? Because I’m checking you out.
+  Are you a clock? Because you’re ticking away in my mind.
+  If I could rearrange the alphabet, I’d put U and I together.
+  You must be a key, because you unlocked my heart.
+  Are you a beach? Because you’ve got me hooked.
+  Can I take you out for coffee? Because I think we could brew up something special.
+  You’re like a cup of tea; you’re exactly what I needed.
+  You must be a magician, because every time I look at you, I’m spellbound.
+  You’re like a ray of sunshine, brightening up my day.
+  Are you a key? Because you unlock my heart.
+  You must be a puzzle, because you complete me.
+  Are you a snowflake? Because I’ve fallen for you.
+  If you were a movie, you’d be called “My Perfect Love Story.”
+  Are you a star? Because you light up my world.
+  If I could rearrange the alphabet, I’d put U and I together.
+  Are you a cloud? Because you’re making my day a little brighter.
+  Can you lend me your heart? Because I think I’m falling for you.
+  Are you a comet? Because you just stole my heart.
+  Are you a photo? Because I can’t stop looking at you.
+  You must be the moon, because you light up my life.
+  If you were a vegetable, you’d be a cute-cumber.
+  If I could rearrange the stars, I’d put you and I together.
+  You must be a diamond, because you’re rare and priceless.
+  Are you a thunderstorm? Because you’re electrifying.
+  Can I follow you? Because my parents always told me to follow my dreams.
+  If I could rearrange the alphabet, I’d put U and I together.
+  You’re like a song; I can’t get you out of my head.
+  Are you a rainbow? Because you bring color to my life.
+  You’re like a cup of coffee; you’re strong, hot, and I can’t start my day without you.
+  Can I take you out for dinner? Because I want to spend more time with you.
+  Are you a superhero? Because you’ve got powers over my heart.
+  Are you a phone? Because I can’t stop checking you out.
+  Can I have your name? Because I want to write it in my heart.
+  You must be the sun, because you brighten up my day.
+  Are you a compass? Because you’re guiding me to happiness.
+  Are you a lock? Because I’ve been searching for you to unlock my heart.
+  Can I take a picture of you? Because I want to show my friends the most beautiful thing I’ve ever seen.
+  You must be a genie, because you’ve just granted my wish.
